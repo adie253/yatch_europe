@@ -1,0 +1,343 @@
+{
+    "hero": {
+        "title": "Luxury Mediterranean Yacht Hire",
+        "subtitle": "Hourly Private Cruises",
+        "description": "Reimagine your summer with our bespoke European fleet.",
+        "buttonText": "View Our Fleet",
+        "intro": "Experience the Mediterranean",
+        "bgImage": "https://wallpaperaccess.com/full/1629008.jpg"
+    },
+    "itineraries": {
+        "title": "Itineraries",
+        "subtitle": "Destinations",
+        "description": "Discover our curated region-based sailings across the most iconic coastlines of Europe.",
+        "regions": [
+            {
+                "name": "Barcelona",
+                "image": "https://images.unsplash.com/photo-1583422409516-2895a77efded?q=80&w=2070&auto=format&fit=crop",
+                "description": "Experience the vibrant culture and stunning architecture of Barcelona from the sea. Sail past the iconic W Hotel, the beaches of Barceloneta, and venture North towards the rugged beauty of Costa Brava.",
+                "duration": "7 Days",
+                "highlights": [
+                    "Sagrada Familia",
+                    "Costa Brava",
+                    "Barceloneta Beach",
+                    "Gothic Quarter"
+                ]
+            },
+            {
+                "name": "Monaco",
+                "image": "https://images.saymedia-content.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MjA0MDUwMjkyMjE4NTM3NTMy/10-tips-for-making-the-most-of-monaco.jpg",
+                "description": "Immerse yourself in the glitz and glamour of the French Riviera. Cruise along the coast to Nice and Cannes, anchoring in crystal clear bays and enjoying world-class dining and nightlife.",
+                "duration": "5 Days",
+                "highlights": [
+                    "Monte Carlo Casino",
+                    "Prince's Palace",
+                    "Oceanographic Museum",
+                    "Larvotto Beach"
+                ]
+            },
+            {
+                "name": "Santorini",
+                "image": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?q=80&w=2021&auto=format&fit=crop",
+                "description": "Sail into the caldera of Santorini, a sight like no other. Explore the volcanic islands, swim in the hot springs, and witness the world-famous sunset from the deck of your private yacht.",
+                "duration": "6 Days",
+                "highlights": [
+                    "Oia Sunset",
+                    "Red Beach",
+                    "Akrotiri",
+                    "Fira"
+                ]
+            },
+            {
+                "name": "Mykonos",
+                "image": "https://res.klook.com/image/upload/fl_lossy.progressive,q_60/Mobile/City/xxeldr6mwnobbkalksbs.jpg",
+                "description": "Discover the cosmopolitan vibe of Mykonos. By day, relax on the pristine beaches of Psarou and Super Paradise. By night, experience the legendary nightlife or enjoy a quiet dinner in Little Venice.",
+                "duration": "5 Days",
+                "highlights": [
+                    "Little Venice",
+                    "Windmills",
+                    "Paradise Beach",
+                    "Delos Island"
+                ]
+            },
+            {
+                "name": "Dubrovnik",
+                "image": "https://media.cntraveler.com/photos/6864668f116fb8ad6898dce6/16:9/w_5312,h_2988,c_limit/Dubrovnik_190625_GettyImages-1032802174.jpg",
+                "description": "Explore the 'Pearl of the Adriatic'. Cruise along the ancient city walls, visit the nearby Elafiti Islands, and discover hidden coves and untouched nature along the Dalmatian coast.",
+                "duration": "7 Days",
+                "highlights": [
+                    "Old Town Walls",
+                    "Lokrum Island",
+                    "Elafiti Islands",
+                    "Stradun"
+                ]
+            },
+            {
+                "name": "Amalfi Coast",
+                "image": "https://www.royalcaribbean.com/media-assets/pmc/content/dam/shore-x/amalfi-coast-salerno-sno/es61-capri-on-your-own/stock-positano-amalfi-coast-campania-sorrento-italy-376017433.jpg?w=1024",
+                "description": "Sail the dramatic coastline of Amalfi. Visit the picturesque towns of Positano and Amalfi, cruise to the island of Capri, and swim in the Blue Grotto. A journey of breathtaking beauty and Italian charm.",
+                "duration": "8 Days",
+                "highlights": [
+                    "Positano",
+                    "Capri & Blue Grotto",
+                    "Ravello",
+                    "Pompeii"
+                ]
+            }
+        ]
+    },
+    "fleet": {
+        "title": "Our Fleet",
+        "subtitle": "Luxury Collection",
+        "description": "Choose from our exclusive selection of yachts available for hourly private hire.",
+        "items": [
+            {
+                "id": 1,
+                "name": "The Royal Sovereign",
+                "length": "140ft",
+                "guests": 12,
+                "price": 3500,
+                "image": "https://images.unsplash.com/photo-1569263979104-865ab7cd8d13?q=80&w=2069&auto=format&fit=crop",
+                "specs": {
+                    "speed": "22 Knots",
+                    "cabins": "5",
+                    "crew": "7",
+                    "built": "2021"
+                },
+                "description": "The Royal Sovereign represents the pinnacle of maritime engineering and luxury. Designed for transoceanic range and comfort, it features a jacuzzi, beach club, and sky lounge.",
+                "features": [
+                    "Jacuzzi",
+                    "Helipad",
+                    "Beach Club",
+                    "Cinema"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Azure Horizon",
+                "length": "88ft",
+                "guests": 10,
+                "price": 2200,
+                "image": "https://media.fraseryachts.com/Yachts/Y6791_MC_MC/images/website/1_GOOD+DAY_JL_DJI_0455_LR-sDtNw1Eb.jpg?vh=964dcd",
+                "specs": {
+                    "speed": "28 Knots",
+                    "cabins": "4",
+                    "crew": "4",
+                    "built": "2019"
+                },
+                "description": "Azure Horizon is perfect for exploring the hidden gems of the Mediterranean. With its sleek design and high speed, it offers both performance and comfort.",
+                "features": [
+                    "Sun Deck",
+                    "Water Toys",
+                    "Stabilizers",
+                    "WiFi"
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Mediterranean Pearl",
+                "length": "65ft",
+                "guests": 8,
+                "price": 1500,
+                "image": "https://www.mangustayachts.com/wp-content/uploads/2024/05/2.Mangusta_GranSport_54_3_exteriors-6.jpg",
+                "specs": {
+                    "speed": "32 Knots",
+                    "cabins": "3",
+                    "crew": "2",
+                    "built": "2022"
+                },
+                "description": "A sporty and elegant yacht ideal for day trips or weekend getaways. The Mediterranean Pearl offers ample deck space for sunbathing and al fresco dining.",
+                "features": [
+                    "Diving Gear",
+                    "Sound System",
+                    "BBQ Grill",
+                    "Swim Platform"
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Monaco Star",
+                "length": "110ft",
+                "guests": 12,
+                "price": 3100,
+                "image": "https://hypeboatclub.com/wp-content/uploads/2024/01/slider1_1-min-1.jpg",
+                "specs": {
+                    "speed": "24 Knots",
+                    "cabins": "5",
+                    "crew": "6",
+                    "built": "2020"
+                },
+                "description": "Experience the lifestyle of the rich and famous aboard the Monaco Star. Featuring a modern interior, spacious salon, and extensive water sports equipment.",
+                "features": [
+                    "Jet Skis",
+                    "Gym",
+                    "Sauna",
+                    "Bar"
+                ]
+            },
+            {
+                "id": 5,
+                "name": "Riviera Lux",
+                "length": "55ft",
+                "guests": 6,
+                "price": 1200,
+                "image": "https://images.pexels.com/photos/163236/luxury-yacht-boat-speed-water-163236.jpeg?cs=srgb&dl=pexels-pixabay-163236.jpg&fm=jpg",
+                "specs": {
+                    "speed": "35 Knots",
+                    "cabins": "2",
+                    "crew": "2",
+                    "built": "2023"
+                },
+                "description": "Compact yet luxurious, the Riviera Lux is the ultimate day cruiser. Fast, stylish, and comfortable, it's perfect for coastal hopping in style.",
+                "features": [
+                    "Speedboat Tender",
+                    "Sunpads",
+                    "Bluetooth Audio",
+                    "Fridge"
+                ]
+            },
+            {
+                "id": 6,
+                "name": "Aegean Queen",
+                "length": "160ft",
+                "guests": 16,
+                "price": 5500,
+                "image": "https://www.sabresyacht.com/wp-content/uploads/2024/12/y_-1_full.webp",
+                "specs": {
+                    "speed": "18 Knots",
+                    "cabins": "8",
+                    "crew": "12",
+                    "built": "2018"
+                },
+                "description": "The Queen of the Aegean. This mega yacht offers unrivaled space and amenities for large groups. A floating palace for your ultimate vacation.",
+                "features": [
+                    "Multiple Jacuzzis",
+                    "Spa",
+                    "Elevator",
+                    "Grand Piano"
+                ]
+            }
+        ]
+    },
+    "footer": {
+        "title": "EUROPEAN YACHTS",
+        "description": "Elevating the art of yacht chartering across the Mediterranean’s most coveted destinations. Experience luxury redefined.",
+        "quickLinks": [
+            {
+                "text": "Itineraries",
+                "href": "#itineraries"
+            },
+            {
+                "text": "The Fleet",
+                "href": "#fleet"
+            },
+            {
+                "text": "About Us",
+                "href": "#"
+            },
+            {
+                "text": "Contact",
+                "href": "#"
+            }
+        ],
+        "contact": {
+            "title": "Contact Us",
+            "email": "hello@europeanyachts.com",
+            "phone": "+33 1 23 45 67 89",
+            "address": "Port Hercules, Monaco"
+        },
+        "copyright": "European Yachts"
+    },
+    "about": {
+        "hero": {
+            "title": "Our Story",
+            "subtitle": "Born from a passion for the sea and a dedication to unparalleled luxury."
+        },
+        "experience": {
+            "title": "Redefining Maritime Luxury",
+            "subtitle": "The Experience",
+            "description1": "European Yachts was founded with a singular vision: to provide an escape that transcends the ordinary. We believe that a journey at sea should be more than just travel; it should be a symphony of comfort, elegance, and discovery.",
+            "description2": "From the azure waters of the Amalfi Coast to the vibrant shores of Ibiza, our meticulously curated fleet and bespoke itineraries ensure that every moment aboard is crafted to perfection.",
+            "image": "https://images.unsplash.com/photo-1560200353-ce0a76b1d438?q=80&w=1974&auto=format&fit=crop"
+        },
+        "values": {
+            "title": "Our Core Values",
+            "items": [
+                {
+                    "title": "Excellence",
+                    "desc": "We pursue perfection in every detail, from the condition of our vessels to the quality of our service."
+                },
+                {
+                    "title": "Privacy",
+                    "desc": "Your sanctuary at sea. We guarantee the utmost discretion and exclusivity for you and your guests."
+                },
+                {
+                    "title": "Personalization",
+                    "desc": "No two voyages are alike. We tailor every itinerary to your specific desires and dreams."
+                }
+            ]
+        }
+    },
+    "services": {
+        "hero": {
+            "title": "Our Services",
+            "subtitle": "Bespoke experiences tailored to your desires."
+        },
+        "items": [
+            {
+                "title": "Private Charters",
+                "desc": "Experience the ultimate freedom. Charter a private yacht for a day, a week, or longer, and explore the coast at your own pace.",
+                "icon": "⚓",
+                "image": "https://images.unsplash.com/photo-1540946485063-a40da27545f8?q=80&w=2069&auto=format&fit=crop"
+            },
+            {
+                "title": "Corporate Events",
+                "desc": "Impress clients and partners with a unique venue. Perfect for meetings, product launches, or team-building retreats.",
+                "icon": "🥂",
+                "image": "https://images.unsplash.com/photo-1533158326339-7f3cf2404354?q=80&w=1968&auto=format&fit=crop"
+            },
+            {
+                "title": "Sunset Cruises",
+                "desc": "Witness the Mediterranean sunset from the best seat in the house. Champagne, canapés, and breathtaking views.",
+                "icon": "🌅",
+                "image": "https://www.hawaiitours.com/wp-content/uploads/2021/05/hawaii-nautical-sunset-cruise-hero-1.jpg"
+            },
+            {
+                "title": "Wellness Retreats",
+                "desc": "Rejuvenate your mind and body. Onboard yoga sessions, spa treatments, and healthy gourmet cuisine.",
+                "icon": "🧘",
+                "image": "https://freshysites.com/wp-content/uploads/most-popular-health-and-wellness-websites.jpg"
+            }
+        ]
+    },
+    "reviews": {
+        "title": "Client Experiences",
+        "subtitle": "Testimonials",
+        "items": [
+            {
+                "id": 1,
+                "name": "James & Sarah L.",
+                "location": "London, UK",
+                "text": "Simply the most unforgettable week of our lives. The crew on the Royal Sovereign anticipated our every need. The Amalfi Coast at sunset from the deck is a memory we will cherish forever.",
+                "rating": 5,
+                "image": "https://randomuser.me/api/portraits/thumb/men/32.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Elena K.",
+                "location": "Moscow, Russia",
+                "text": "Impeccable service and absolute privacy. European Yachts understands true luxury. The itinerary was perfectly paced, allowing us to discover hidden gems in Greece we never knew existed.",
+                "rating": 5,
+                "image": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Michael Chen",
+                "location": "Singapore",
+                "text": "A corporate retreat that set a new standard. The yacht was pristine, the internet fast, and the catering world-class. My team is still talking about it.",
+                "rating": 5,
+                "image": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
+            }
+        ]
+    }
+}
